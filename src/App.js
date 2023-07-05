@@ -54,8 +54,8 @@ function App() {
       </section>
       {/* *********section_2*********** */}
       <section>
-        <div className='container'>
-          <div class="gradient-box c_pointer">
+        <div className='container mt_48'>
+          <div class="gradient-box  c_pointer">
             <div>
               <div className='flex align_center '>
                 <div>
